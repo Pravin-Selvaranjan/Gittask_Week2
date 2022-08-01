@@ -1,6 +1,7 @@
 # _**GIT INSTRUCTIONAL TUTORIAL**_
 
-(image)
+![Flowcharts (2)](https://user-images.githubusercontent.com/110179866/182137462-52b662d8-1976-4273-a137-51785226833e.jpeg)
+
 
 ## Creating a repo on Github
 
@@ -8,7 +9,8 @@
 - From there fill in the relevant details as shown in the image below
   
 
-(image)
+
+![week2 task image 1](https://user-images.githubusercontent.com/110179866/182137500-08b3874c-9d57-481b-93db-bc971f3d2577.jpeg)
 
 
 
@@ -16,7 +18,8 @@
 - Once you have created your repository you will be taken to the following page where the steps below will assist you
   
 
-(image)
+
+![week2 task image 2](https://user-images.githubusercontent.com/110179866/182137520-5763d085-2d9e-4797-828a-d1623cf3a934.jpeg)
 
 
 - This tutorial will utilise the SSH protocol so ensure you have created a key using the following tutorial [SSH key tutorial](https://github.com/Pravin-Selvaranjan/Spartalearning/blob/main/Github%20setup%20using%20HTTPS%20and%20SSH.md)
